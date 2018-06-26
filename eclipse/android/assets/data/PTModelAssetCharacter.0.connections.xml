@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>3133</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3135</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3183</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3185</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3208</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3210</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3143</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3145</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3151</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3153</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3167</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3169</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3175</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3177</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>3159</string>
+                <key>Default Animation</key>
+                <dict>
+                    <key>value</key>
+                    <string>3161</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
